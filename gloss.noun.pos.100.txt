@@ -1,0 +1,99 @@
+fifth/JJ month/NN of/IN the/DT Revolutionary/NNP calendar/NN (/( January/NNP and/CC February/NNP )/SYM ;/: the/DT rainy/JJ month/NN 
+sixth/JJ month/NN of/IN the/DT Revolutionary/NNP calendar/NN (/( February/NNP and/CC March/NNP )/SYM ;/: the/DT windy/JJ month/NN 
+seventh/JJ month/NN of/IN the/DT Revolutionary/NNP calendar/NN (/( March/NNP and/CC April/NNP )/SYM ;/: the/DT month/NN of/IN buds/NNS 
+eighth/JJ month/NN of/IN the/DT Revolutionary/NNP calendar/NN (/( April/NNP and/CC May/NNP )/SYM ;/: the/DT month/NN of/IN flowers/NNS 
+ninth/JJ month/NN of/IN the/DT Revolutionary/NNP calendar/NN (/( May/NNP and/CC June/NNP )/SYM ;/: the/DT month/NN of/IN meadows/NNS 
+tenth/JJ month/NN of/IN the/DT Revolutionary/NNP calendar/NN (/( June/NNP and/CC July/NNP )/SYM ;/: the/DT month/NN of/IN harvest/NN 
+eleventh/JJ month/NN of/IN the/DT Revolutionary/NNP calendar/NN (/( July/NNP and/CC August/NNP )/SYM ;/: the/DT month/NN of/IN heat/NN 
+twelfth/JJ month/NN of/IN the/DT Revolutionary/NNP calendar/NN (/( August/NNP and/CC September/NNP )/SYM ;/: the/DT month/NN of/IN fruit/NN 
+(/( Judaism/NNP )/SYM the/DT calendar/NN used/VBN by/IN the/DT Jews/NNPS ;/: dates/NNS from/IN 3761/CD BC/NNP (/( the/DT assumed/VBN date/NN of/IN the/DT creation/NN of/IN the/DT world/NN )/SYM ;/: a/DT lunar/JJ year/NN of/IN 354/CD days/NNS is/VBZ adjusted/VBN to/TO the/DT solar/JJ year/NN by/IN periodic/JJ leap/NN years/NNS 
+a/DT calendar/NN based/VBN on/IN lunar/JJ cycles/NNS 
+a/DT calendar/NN based/VBN on/IN both/DT lunar/JJ and/CC solar/JJ cycles/NNS 
+a/DT calendar/NN based/VBN on/IN solar/JJ cycles/NNS 
+the/DT lunar/JJ calendar/NN used/VBN by/IN Muslims/NNPS ;/: dates/NNS from/IN 622/CD AD/NN (/( the/DT year/NN of/IN the/DT Hegira/NNP )/SYM ;/: the/DT beginning/NN of/IN the/DT Muslim/NNP year/NN retrogresses/NNS through/IN the/DT solar/JJ year/NN completing/VBG the/DT cycle/NN every/DT 32/CD years/NNS 
+the/DT lunisolar/JJ calendar/NN governing/VBG the/DT religious/JJ life/NN of/IN Hindus/NNP ;/: an/DT extra/JJ month/NN is/VBZ inserted/VBN after/IN every/DT month/NN in/IN which/WDT there/EX are/VBP two/CD new/JJ moons/NNS (/( once/RB every/DT three/CD years/NNS )/SYM 
+a/DT particular/JJ but/CC unspecified/JJ point/NN in/IN time/NN 
+the/DT point/NN in/IN time/NN at/IN which/WDT something/NN must/MD be/VB completed/VBN 
+the/DT time/NN that/IN the/DT curfew/NN signal/NN is/VBZ sounded/VBN 
+something/NN located/VBN at/IN a/DT time/NN when/WRB it/PRP could/MD not/RB have/VB existed/VBN or/CC occurred/VBD 
+an/DT instant/NN of/IN time/NN 
+the/DT time/NN at/IN which/WDT a/DT public/JJ conveyance/NN is/VBZ scheduled/VBN to/TO arrive/VB at/IN a/DT given/VBN destination/NN 
+the/DT time/NN at/IN which/WDT a/DT public/JJ conveyance/NN is/VBZ scheduled/VBN to/TO depart/VB from/IN a/DT given/VBN point/NN of/IN origin/NN 
+the/DT latest/JJS time/NN for/IN vacating/VBG a/DT hotel/NN room/NN 
+the/DT week/NN before/IN Easter/NNP 
+(/( Roman/NNP Catholic/NNP Church/NNP )/SYM a/DT period/NN of/IN remission/NN from/IN sin/NN (/( usually/RB granted/VBN every/DT 25/CD years/NNS )/SYM 
+a/DT calendar/NN of/IN the/DT Christian/NNP year/NN indicating/VBG the/DT dates/NNS of/IN fasts/NNS and/CC festivals/NNS 
+eve/NN of/IN May/NNP Day/NNP 
+the/DT last/JJ day/NN of/IN the/DT year/NN 
+the/DT first/JJ day/NN of/IN the/DT year/NN 
+the/DT calendar/NN year/NN just/RB begun/VBN 
+observed/VBN on/IN the/DT Monday/NNP closest/JJS to/TO January/NNP 15/CD 
+celebrated/VBN in/IN southern/JJ United/NNP States/NNPS 
+New/NNP Year/NN 's/POS Eve/NNP in/IN Scotland/NNP 
+(/( Judaism/NNP )/SYM a/DT solemn/JJ Jewish/JJ feast/NN day/NN celebrated/VBD on/IN the/DT 1st/JJ or/CC 1st/JJ and/CC 2nd/CD of/IN Tishri/NNP ;/: noted/VBD for/IN the/DT blowing/NN of/IN the/DT shofar/NN 
+(/( Judaism/NNP )/SYM the/DT beginning/NN of/IN each/DT month/NN in/IN the/DT Jewish/JJ calendar/NN ;/: marked/VBN by/IN a/DT special/JJ liturgy/NN 
+the/DT New/NNP Year/NN in/IN Vietnam/NNP ;/: observed/VBN for/IN three/CD days/NNS after/IN the/DT first/JJ full/JJ moon/NN after/IN January/NNP 20th/JJ 
+a/DT day/NN on/IN which/WDT work/VBP is/VBZ suspended/VBN by/IN law/NN or/CC custom/NN 
+a/DT day/NN specified/VBN for/IN religious/JJ observance/NN 
+Jewish/JJ holy/JJ days/NNS observed/VBN with/IN particular/JJ solemnity/NN 
+a/DT religious/JJ holiday/NN for/IN Christians/NNPS 
+a/DT religious/JJ holiday/NN for/IN Jews/NNPS 
+a/DT day/NN when/WRB Catholics/NNPS must/MD attend/VB Mass/NNP and/CC refrain/VB from/IN servile/JJ work/NN ,/, and/CC Episcopalians/NNPS must/MD take/VB Communion/NNP 
+a/DT religious/JJ holiday/NN that/WDT falls/VBZ on/IN different/JJ dates/NNS in/IN different/JJ years/NNS 
+(/( Judaism/NNP )/SYM a/DT solemn/JJ Jewish/JJ fast/JJ day/NN ;/: 10th/NN of/IN Tishri/NNP ;/: its/PRP$ observance/NN is/VBZ one/CD of/IN the/DT requirements/NNS of/IN the/DT Mosaic/NNP Law/NNP 
+a/DT Christian/NNP holy/JJ day/NN 
+the/DT feast/NN of/IN Saint/NNP Martin/NNP ;/: a/DT quarter/NN day/NN in/IN Scotland/NNP 
+a/DT period/NN of/IN unusually/RB warm/JJ weather/NN in/IN the/DT autumn/NN 
+a/DT festival/NN commemorating/VBG the/DT announcement/NN of/IN the/DT Incarnation/NNP by/IN the/DT angel/NN Gabriel/NNP to/TO the/DT Virgin/NNP Mary/NNP ;/: a/DT quarter/NN day/NN in/IN England/NNP ,/, Wales/NNP ,/, and/CC Ireland/NNP 
+honoring/VBG the/DT archangel/NN Michael/NNP ;/: a/DT quarter/NN day/NN in/IN England/NNP ,/, Wales/NNP ,/, and/CC Ireland/NNP 
+the/DT season/NN of/IN Michaelmas/NNP 
+feast/NN day/NN commemorating/VBG the/DT presentation/NN of/IN Christ/NNP in/IN the/DT temple/NN ;/: a/DT quarter/NN day/NN in/IN Scotland/NNP 
+if/IN the/DT ground/NN hog/NN emerges/VBZ and/CC sees/VBZ his/PRP$ shadow/NN on/IN this/DT day/NN ,/, there/EX will/MD be/VB 6/CD more/JJR weeks/NNS of/IN winter/NN 
+the/DT day/NN on/IN which/WDT President/NNP Abraham/NNP Lincoln/NNP is/VBZ remembered/VBN 
+a/DT day/NN for/IN the/DT exchange/NN of/IN tokens/NNS of/IN affection/NN 
+the/DT day/NN on/IN which/WDT George/NNP Washington/NNP is/VBZ remembered/VBN 
+the/DT third/JJ Monday/NNP in/IN February/NNP ;/: commemorates/VBZ both/DT presidents/NNS Lincoln/NNP and/CC Washington/NNP 
+Texans/NNPS celebrate/VBP the/DT anniversary/NN of/IN Texas/NNP '/POS declaration/NN of/IN independence/NN from/IN Mexico/NNP in/IN 1836/CD 
+a/DT day/NN observed/VBN by/IN the/DT Irish/JJ to/TO commemorate/VB the/DT patron/NN saint/NN of/IN Ireland/NNP 
+a/DT Christian/NNP celebration/NN of/IN the/DT Resurrection/NNP of/IN Christ/NNP ;/: celebrated/VBD on/IN the/DT Sunday/NNP following/VBG the/DT first/JJ full/JJ moon/NN after/IN the/DT vernal/JJ equinox/NN 
+the/DT day/NN (/( in/IN March/NNP or/CC April/NNP )/SYM on/IN which/WDT the/DT festival/NN of/IN Easter/NNP is/VBZ celebrated/VBN 
+April/NNP 1/CD ;/: celebrated/VBN by/IN playing/VBG of/IN practical/JJ jokes/NNS 
+a/DT day/NN celebrating/VBG political/JJ and/CC economic/JJ unity/NN among/IN American/JJ countries/NNS 
+the/DT 3rd/CD Monday/NNP in/IN April/NNP ;/: Massachusetts/NNP and/CC Maine/NNP celebrate/VB the/DT battle/NN of/IN Lexington/NNP and/CC Concord/NNP in/IN 1775/CD 
+observed/VBN in/IN the/DT United/NNP States/NNPS to/TO celebrate/VB the/DT coming/NN of/IN spring/NN ;/: observed/VBN in/IN Russia/NNP in/IN honor/NN of/IN labor/NN 
+second/JJ Sunday/NNP in/IN May/NNP 
+the/DT 3rd/CD Saturday/NNP in/IN May/NNP 
+U.S./NNP ,/, last/JJ Monday/NNP in/IN May/NNP ;/: commemorates/VBZ the/DT members/NNS of/IN the/DT United/NNP States/NNPS armed/VBN forces/NNS who/WP were/VBD killed/VBN in/IN war/NN 
+celebrated/VBN in/IN southern/JJ United/NNP States/NNPS 
+commemorating/VBG the/DT adoption/NN of/IN the/DT U.S./NNP flag/NN in/IN 1777/CD 
+US/NNP :/: third/JJ Sunday/NNP in/IN June/NNP 
+a/DT legal/JJ holiday/NN in/IN the/DT United/NNP States/NNPS 
+commemorates/VBZ Saint/NNP Peter/NNP 's/POS miraculous/JJ deliverance/NN from/IN prison/NN ;/: a/DT quarter/NN day/NN in/IN Scotland/NNP ;/: a/DT harvest/NN festival/NN in/IN England/NNP 
+the/DT season/NN of/IN Lammas/NNP 
+first/JJ Monday/NNP in/IN September/NNP in/IN U.S./NNP and/CC Canada/NNP 
+celebrated/VBN in/IN the/DT United/NNP States/NNPS 
+US/NNP :/: the/DT 4th/NNP Friday/NNP in/IN September/NNP 
+a/DT legal/JJ holiday/NN commemorating/VBG the/DT discovery/NN of/IN America/NNP by/IN Christopher/NNP Columbus/NNP 
+a/DT day/NN for/IN celebrating/VBG the/DT founding/NN of/IN the/DT United/NNP Nations/NNPS 
+the/DT evening/NN before/IN All/DT Saints/NNP '/POS Day/NNP ;/: often/RB devoted/VBN to/TO pranks/NNS played/VBN by/IN young/JJ people/NNS 
+the/DT Christian/NNP festival/NN of/IN Easter/NNP 
+the/DT Jewish/JJ feast/NN of/IN the/DT Passover/NNP 
+the/DT Easter/NNP season/NN 
+Sunday/NNP before/IN Easter/NNP 
+second/JJ Sunday/NNP before/IN Easter/NNP 
+Friday/NNP before/IN Easter/NNP 
+the/DT Sunday/NNP following/VBG Easter/NNP 
+the/DT Saturday/NNP before/IN Easter/NNP ;/: the/DT last/JJ day/NN of/IN Lent/NNP 
+December/NNP 28/CD ,/, commemorating/VBG Herod/NNP 's/POS slaughter/NN of/IN the/DT children/NNS of/IN Bethlehem/NNP 
+the/DT 3rd/CD Sunday/NNP before/IN Lent/NNP (/( or/CC the/DT 9th/NN before/IN Easter/NNP )/SYM 
+the/DT Sunday/NNP before/IN Ash/NNP Wednesday/NNP (/( the/DT beginning/NN of/IN Lent/NNP )/SYM 
+the/DT first/JJ Sunday/NNP in/IN Lent/NNP 
+eighth/JJ Sunday/NNP after/IN Easter/NNP 
+one/CD of/IN the/DT three/CD days/NNS before/IN Ascension/NNP Day/NNP ;/: observed/VBN by/IN some/DT Christians/NNPS as/IN days/NNS of/IN supplication/NN 
+(/( Roman/NNP Catholic/NNP Church/NNP )/SYM a/DT holy/JJ day/NN of/IN obligation/NN 
+(/( Christianity/NNP )/SYM celebration/NN of/IN the/DT Ascension/NNP of/IN Christ/NNP into/IN heaven/NN ;/: observed/VBN on/IN the/DT 40th/JJ day/NN after/IN Easter/NNP 
+(/( Roman/NNP Catholic/NNP Church/NNP and/CC Anglican/NNP Church/NNP )/SYM feast/NN day/NN celebrating/VBG the/DT circumcision/NN of/IN Jesus/NNP ;/: celebrated/VBD on/IN January/NNP 1st/JJ 
+the/DT Thursday/NNP before/IN Easter/NNP ;/: commemorates/VBZ the/DT Last/NNP Supper/NNP 
+Thursday/NNP after/IN Trinity/NNP Sunday/NNP ;/: first/JJ celebrated/VBD in/IN 1246/CD 
+first/JJ celebrated/VBN in/IN the/DT 3rd/CD century/NN 
+celebration/NN in/IN the/DT Roman/NNP Catholic/NNP Church/NNP of/IN the/DT Virgin/NNP Mary/NNP 's/POS being/VBG taken/VBN up/IN into/IN heaven/NN when/WRB her/PRP$ earthly/JJ life/NN ended/VBD ;/: corresponds/VBZ to/TO the/DT Dormition/NNP in/IN the/DT Eastern/NNP Orthodox/NNP church/NN 
