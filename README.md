@@ -11,7 +11,7 @@ The patterns that are searched for have the following format:
 
     The script print on output the patterns in form:
 
-  <pattern>=<number_of_occurences>
+  &lt;pattern&gt;=&lt;number_of_occurences&gt;
 
     in a descend order of number of occurences
 
