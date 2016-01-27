@@ -16,7 +16,7 @@ The patterns that are searched for have the following format:
     in a descend order of number of occurences
 
 
-Usage: perl <pathToScript>/xfindpattern.pl <posTaggedFile>
+Usage: perl &lt;pathToScript&gt;/xfindpattern.pl &lt;posTaggedFile&gt;
 
 Example: perl ./xfindpattern.pl gloss.noun.pos.100.txt
 
